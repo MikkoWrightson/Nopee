@@ -8,5 +8,9 @@
         "**bin/": true,
         "**/obj/": true,
         "**/node_modules/": true
+    },
+    "[typescriptreact]": {
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true
     }
 }
