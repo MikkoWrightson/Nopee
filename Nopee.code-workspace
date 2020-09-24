@@ -8,6 +8,6 @@
 		}
 	],
 	"settings": {
-		"typescript.tsdk": "d:\\Repositories\\.temp\\Nopee\\client\\node_modules\\typescript\\lib"
+		"typescript.tsdk": "./client/node_modules/typescript/lib"
 	}
 }
