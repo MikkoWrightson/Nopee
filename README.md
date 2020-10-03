@@ -1,2 +1,1 @@
-#nopee
-vai hidas
+# nopee vai hidas?
