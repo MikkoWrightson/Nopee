@@ -1,1 +1,0 @@
-# nopee vai hidas?
